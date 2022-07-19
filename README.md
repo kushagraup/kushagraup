@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/sahil-rawat/sahil-rawat/master/src/wave.gif?token=AMW6YFXNWQ3LPDZVQCHEZ7S7INZGW" width="30px">
 
-My name is Kushagra Mishra and I'm a Engineering Student, Developer and a Ethical Hacking Enthusiast I'm from India, living in New delhi and currently pursuing B.Tech CSE.
+My name is Kushagra Mishra and I'm an Engineering Student, Developer and an Ethical Hacking Enthusiast I'm from India, living in New delhi and currently pursuing B.Tech CSE.
 I'm a tech enthusiast who loves to learn about new things.
 Lets Connect. 
 <div align="left">
